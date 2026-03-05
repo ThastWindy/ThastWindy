@@ -1,4 +1,15 @@
-## Hi there 👋
+## Hi, I'm **ThastWindy** 👋
+
+or you can call me **Windy**
+
+I'm a Game Developer
+My games are on [Itch.io](https://thastwindy.itch.io "My Itch.io Page")
+
+> Quote
+
+My Skills:
+
+![C# Programming Language](https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png)
 
 <!--
 **ThastWindy/ThastWindy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
