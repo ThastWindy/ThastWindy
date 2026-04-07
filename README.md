@@ -2,7 +2,7 @@
   Hi, I'm <b><i>ThastWindy</i></b> 👋<br> Or you can call me <b><i>Windy</i></b>
 </h2>
 
-I'm mainly a ***Game Developer***
+I'm mainly a ***Game Developer*** from ***Thailand***
 
 I'm also a ***Game Designer, Game Programmer, and Music Composer***
 
